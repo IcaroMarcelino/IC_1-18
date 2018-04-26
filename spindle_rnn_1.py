@@ -187,9 +187,9 @@ def execute(nexec, learning_rate, training_steps, batch_size, display_step, file
 
                 scores.append(acc)
                 losses.append(loss)
-                print("Step " + str(step) + ", Minibatch Loss= " + \
-                      "{:.4f}".format(loss) + ", Training Accuracy= " + \
-                      "{:.3f}".format(acc))
+                #print("Step " + str(step) + ", Minibatch Loss= " + \
+                #      "{:.4f}".format(loss) + ", Training Accuracy= " + \
+                #      "{:.3f}".format(acc))
             end = time.time()
 
             i += 1
@@ -205,11 +205,11 @@ def execute(nexec, learning_rate, training_steps, batch_size, display_step, file
     sess.run(accuracy, feed_dict={X: test_in, Y: test_out}))
 
 # Training Parameters
-learning_rate = 1e-9
+learning_rate = 1e-7
 training_steps = 100000
 batch_size = 100
-display_step = 99999
-filename = "RNN_LR9_H1024"
+display_step = 1
+filename = "RNN_LR7_H1024"
 
 for i in range(0,50):
 	execute(nexec = i, 

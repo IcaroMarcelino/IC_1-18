@@ -1,8 +1,0 @@
-WARNING:tensorflow:From spindle_rnn_2.py:151: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-
-Future major versions of TensorFlow will allow gradients to flow
-into the labels input on backprop by default.
-
-See tf.nn.softmax_cross_entropy_with_logits_v2.
-
