@@ -2,3 +2,103 @@ W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn'
 W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
 W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
 W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+Optimization Finished!
+Testing Accuracy: 0.936049
+Optimization Finished!
+Testing Accuracy: 0.935775
+Optimization Finished!
+Testing Accuracy: 0.814335
+Optimization Finished!
+Testing Accuracy: 0.935069
+Optimization Finished!
+Testing Accuracy: 0.935261
+Optimization Finished!
+Testing Accuracy: 0.935864
+Optimization Finished!
+Testing Accuracy: 0.934897
+Optimization Finished!
+Testing Accuracy: 0.936193
+Optimization Finished!
+Testing Accuracy: 0.936152
+Optimization Finished!
+Testing Accuracy: 0.936043
+Optimization Finished!
+Testing Accuracy: 0.935809
+Optimization Finished!
+Testing Accuracy: 0.93535
+Optimization Finished!
+Testing Accuracy: 0.895165
+Optimization Finished!
+Testing Accuracy: 0.935206
+Optimization Finished!
+Testing Accuracy: 0.935117
+Optimization Finished!
+Testing Accuracy: 0.934774
+Optimization Finished!
+Testing Accuracy: 0.935521
+Optimization Finished!
+Testing Accuracy: 0.935521
+Optimization Finished!
+Testing Accuracy: 0.936646
+Optimization Finished!
+Testing Accuracy: 0.936077
+Optimization Finished!
+Testing Accuracy: 0.936097
+Optimization Finished!
+Testing Accuracy: 0.864239
+Optimization Finished!
+Testing Accuracy: 0.935823
+Optimization Finished!
+Testing Accuracy: 0.934979
+Optimization Finished!
+Testing Accuracy: 0.936022
+Optimization Finished!
+Testing Accuracy: 0.936639
+Optimization Finished!
+Testing Accuracy: 0.935514
+Optimization Finished!
+Testing Accuracy: 0.934863
+Optimization Finished!
+Testing Accuracy: 0.93476
+Optimization Finished!
+Testing Accuracy: 0.894815
+Optimization Finished!
+Testing Accuracy: 0.935576
+Optimization Finished!
+Testing Accuracy: 0.89546
+Optimization Finished!
+Testing Accuracy: 0.934616
+Optimization Finished!
+Testing Accuracy: 0.935734
+Optimization Finished!
+Testing Accuracy: 0.934342
+Optimization Finished!
+Testing Accuracy: 0.936475
+Optimization Finished!
+Testing Accuracy: 0.935693
+Optimization Finished!
+Testing Accuracy: 0.934993
+Optimization Finished!
+Testing Accuracy: 0.935727
+Optimization Finished!
+Testing Accuracy: 0.935789
+Optimization Finished!
+Testing Accuracy: 0.935357
+Optimization Finished!
+Testing Accuracy: 0.936742
+Optimization Finished!
+Testing Accuracy: 0.82856
+Optimization Finished!
+Testing Accuracy: 0.935734
+Optimization Finished!
+Testing Accuracy: 0.936001
+Optimization Finished!
+Testing Accuracy: 0.935857
+Optimization Finished!
+Testing Accuracy: 0.936372
+Optimization Finished!
+Testing Accuracy: 0.936077
+Optimization Finished!
+Testing Accuracy: 0.894259
+Optimization Finished!
+Testing Accuracy: 0.936379
